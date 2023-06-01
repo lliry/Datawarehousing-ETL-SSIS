@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "DSTI Call center analysis", "..\..\..\Downloads\DSTI Call center analysis - V31.05.2023\DSTI Call center analysis\DSTI Call center analysis.dtproj", "{58396E8F-62F0-471B-8505-DF6119963918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58396E8F-62F0-471B-8505-DF6119963918}.Development|Default.ActiveCfg = Development
+		{58396E8F-62F0-471B-8505-DF6119963918}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B711D86F-B59E-46F2-9D53-FA0C7B16C8CD}
+	EndGlobalSection
+EndGlobal
